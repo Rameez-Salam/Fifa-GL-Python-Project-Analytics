@@ -1,4 +1,4 @@
-# Python-Project
+# Python-Project Analytics
 Python Analytics Course By Great Learning
 
 # Project Objectives
